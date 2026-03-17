@@ -1,16 +1,21 @@
-# React + Vite
+# ⛄ Lyric Snowman | SIA 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> "Don't cry, snowman, not in front of me..."
 
-Currently, two official plugins are available:
+Um projeto desenvolvido para dar vida à letra da música **Snowman**, da Sia. Este site não é apenas um player, mas uma experiência visual sincronizada que traz a melodia para o navegador com uma estética moderna e imersiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ O Projeto
+Esta aplicação web foi construída com **React** e **Vite**, focando em uma interface fluida e animações que acompanham o ritmo da canção. O objetivo foi criar um "lyric video" interativo onde o design reflete a atmosfera melancólica e reconfortante da obra.
 
-## React Compiler
+## 🛠️ Tecnologias Utilizadas
+* **React.js**: Estrutura da interface e gerenciamento de estado.
+* **Vite**: Tooling de última geração para um desenvolvimento ultra-rápido.
+* **CSS3 / Framer Motion**: Para transições suaves e efeitos visuais que não "derretem".
+* **Hooks**: Para sincronização precisa entre o áudio e a exibição da letra.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Como rodar localmente
+Se quiser testar o projeto na sua máquina:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/123Mirandinha123/lyric_snowman.git](https://github.com/123Mirandinha123/lyric_snowman.git)
